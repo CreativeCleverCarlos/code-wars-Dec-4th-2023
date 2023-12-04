@@ -18,7 +18,7 @@ i.e.
 
 //Psuedo code
 
-function findFriends(arr){
+
     //seperate array into string
 
     function friend(friends){
@@ -28,4 +28,3 @@ function findFriends(arr){
     //have a loop that counts the string letters
 
     //push the strings that contain 4 letters into a new array
-}
